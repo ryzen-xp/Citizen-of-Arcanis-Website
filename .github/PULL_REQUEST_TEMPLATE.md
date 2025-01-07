@@ -1,6 +1,6 @@
 # 🚀 Pull Request  
 
-## 🔗 Emoji | Closes this issue: [Link to the issue]  
+## 🔗 Closes this issue: [Link to the issue]  
 
 ## 📋 Description  
 Briefly describe the changes made in this PR.  
