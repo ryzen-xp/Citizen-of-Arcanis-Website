@@ -1,6 +1,6 @@
 # 🚀 Pull Request  
 
-## 🔗 Closes #issue  
+## 🔗 Close #issue  
 
 ## 📋 Description  
 Briefly describe the changes made in this PR.  
