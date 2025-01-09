@@ -1,6 +1,6 @@
 # 🚀 Pull Request  
 
-## 🔗 Closes this issue: [Link to the issue]  
+## 🔗 Closes #issue  
 
 ## 📋 Description  
 Briefly describe the changes made in this PR.  
